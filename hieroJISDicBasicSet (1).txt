@@ -8,6 +8,7 @@ WOMAN	𓁖	名詞
 WOMAN	𓁗	名詞	
 WOMAN	𓁘	名詞	
 WOMAN	𓁙	名詞	
+test	𓁙	名詞	
 MAN	𓀺	名詞	
 MAN	𓀻	名詞	
 MAN	𓀼	名詞	
